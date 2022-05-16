@@ -250,10 +250,3 @@ df
 # RESULT:
 Hence, Feature transformation techniques is been performed on given dataset and saved into a file successfully.
 
-
-
-
-
-
-
-
